@@ -25,7 +25,7 @@ Soy Ingeniero Informático por la Universidad de Las Palmas de Gran Canaria (ULP
 ### Tecnologías que utilizo ⚙️
 <ul>
   <li><b>Lenguajes:</b> Java, TypeScript, JavaScript, Python, C++</li>
-  <li><b>Frameworks y Librerías:</b> Spring Boot, Node.js, React</li>
+  <li><b>Frameworks y Librerías:</b> Spring Boot, Node.js, Angular</li>
   <li><b>Base de datos:</b> MySQL, MongoDB</li>
   <li><b>Control de versiones:</b> Git y GitHub</li>
   <li><b>Herramientas de desarrollo:</b> Visual Studio Code</li>
