@@ -1,10 +1,6 @@
 <h1 align="center">¡Hola! 👋 Soy Aythami</h1>
 
-<h2 align="center">Estudiante de Ingeniería Informática en la ULPGC</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Estudiante-ULPGC-blue?style=for-the-badge" alt="ULPGC Badge">
-</p>
+<h2 align="center">Ingeniero Informático</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge">
