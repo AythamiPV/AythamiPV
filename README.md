@@ -1,6 +1,15 @@
 <h1 align="center">¡Hola! Soy Aythami</h1>
 <h2 align="center">Ingeniero Informático | Full-Stack Developer (Backend-focused)</h2>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge" alt="Java">
+  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge">
+</p>
+
 <br>
 
 ### Sobre mí
@@ -33,13 +42,16 @@ Aplicación para la visualización de datos portuarios y optimización de recurs
 Desarrollo de una API en Java con Spring Boot, aplicando buenas prácticas de diseño backend.
 
 **[Message](https://github.com/ZuliiHdez/Message)**
-Proyecto de clase en equipo, versión mejorada de Orion.
+Aplicación móvil de mensajería en tiempo real desarrollada con Ionic, Angular y Supabase, inspirada en Messenger. Incluye chats individuales y grupales, envío de imágenes con vista única (Photo Bomb), pizarra colaborativa en tiempo real, notificaciones push y soporte multi-idioma. Versión mejorada de Orion.
 
 **[Orion](https://github.com/ZuliiHdez/Orion)**
-Proyecto de clase en equipo.
+Primera versión de la aplicación de mensajería, desarrollada con Kotlin y Firebase como proyecto de clase en equipo. Sentó las bases funcionales que luego se ampliaron en Message.
+
+**[Reserly](https://github.com/AythamiPV/Reserly)**
+Plataforma web para la reserva de servicios de belleza y bienestar (peluquería, barbería, manicura, masajes), desarrollada en equipo. Incluye gestión de usuarios y negocios, sistema de reservas con confirmación automática, y reseñas y valoraciones de clientes.
 
 **[PS-AquaViva](https://github.com/IsmaelYanes/PS-AquaViva/tree/master)**
-Proyecto de clase en equipo.
+Plataforma web interactiva desarrollada en equipo que ofrece información en tiempo real sobre las condiciones marítimas en las costas de las Islas Canarias: mareas, oleaje, viento, corrientes y temperatura del agua, además de predicciones oceánicas, avistamiento de especies marinas y accesibilidad en playas.
 
 <br>
 
