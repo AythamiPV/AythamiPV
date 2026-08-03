@@ -28,7 +28,7 @@ Soy Ingeniero Informático por la Universidad de Las Palmas de Gran Canaria (ULP
   <li><b>Frameworks y Librerías:</b> Spring Boot, Node.js, React</li>
   <li><b>Base de datos:</b> MySQL, MongoDB</li>
   <li><b>Control de versiones:</b> Git y GitHub</li>
-  <li><b>Herramientas de desarrollo:</b> Visual Studio Code, IntelliJ</li>
+  <li><b>Herramientas de desarrollo:</b> Visual Studio Code</li>
 </ul>
 
 ---
