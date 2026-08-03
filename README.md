@@ -17,7 +17,7 @@ Soy Ingeniero Informático por la Universidad de Las Palmas de Gran Canaria (ULP
 
 - **Desarrollo backend**: Java, Spring Boot, Node.js, diseño de APIs REST.
 - **Optimización de sistemas**: modelos heurísticos, rendimiento y eficiencia.
-- **Desarrollo web**: TypeScript, JavaScript, y frameworks como React.
+- **Desarrollo web**: TypeScript, JavaScript, y frameworks como Angular.
 - **Algoritmos y estructuras de datos**: con Python y C++.
 
 ---
