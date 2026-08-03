@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋 Soy Aythami</h1>
+<h1 align="center">¡Hola! Soy Aythami</h1>
 <h2 align="center">Ingeniero Informático | Full-Stack Developer (Backend-focused)</h2>
 
 <p align="center">
@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge">
 </p>
 
----
+<br>
 
 ### Sobre mí
 
@@ -23,17 +23,15 @@ Mis principales áreas de trabajo son:
 - Desarrollo frontend con Angular y TypeScript
 - Optimización de sistemas y algoritmos
 
----
+<br>
 
 ### Tecnologías
 
-- **Lenguajes:** Java, TypeScript, JavaScript, Python, C++
-- **Frameworks y librerías:** Spring Boot, Node.js, Angular
--  **Bases de datos:** MySQL, MongoDB
--  **Control de versiones:** Git, GitHub
--  **Herramientas:** Visual Studio Code
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts,js,py,cpp,angular,mysql,mongodb,git,vscode" />
+</p>
 
----
+<br>
 
 ### Proyectos
 
@@ -52,7 +50,16 @@ Proyecto de clase en equipo.
 **[PS-AquaViva](https://github.com/IsmaelYanes/PS-AquaViva/tree/master)**
 Proyecto de clase en equipo.
 
----
+<br>
+
+### Estadísticas
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true" />
+</p>
+
+<br>
 
 ### Contacto
 
