@@ -41,11 +41,11 @@ Aplicación para la visualización de datos portuarios y optimización de recurs
 **Prácticas – Kaizten**
 Desarrollo de una API en Java con Spring Boot, aplicando buenas prácticas de diseño backend.
 
-**[Message](https://github.com/ZuliiHdez/Message)**
-Aplicación móvil de mensajería en tiempo real desarrollada con Ionic, Angular y Supabase, inspirada en Messenger. Incluye chats individuales y grupales, envío de imágenes con vista única (Photo Bomb), pizarra colaborativa en tiempo real, notificaciones push y soporte multi-idioma. Versión mejorada de Orion.
-
 **[Orion](https://github.com/ZuliiHdez/Orion)**
 Primera versión de la aplicación de mensajería, desarrollada con Kotlin y Firebase como proyecto de clase en equipo. Sentó las bases funcionales que luego se ampliaron en Message.
+
+**[Message](https://github.com/ZuliiHdez/Message)**
+Aplicación móvil de mensajería en tiempo real desarrollada con Ionic, Angular y Supabase, inspirada en Messenger. Incluye chats individuales y grupales, envío de imágenes con vista única (Photo Bomb), pizarra colaborativa en tiempo real, notificaciones push y soporte multi-idioma. Versión mejorada de Orion.
 
 **[Reserly](https://github.com/AythamiPV/Reserly)**
 Plataforma web para la reserva de servicios de belleza y bienestar (peluquería, barbería, manicura, masajes), desarrollada en equipo. Incluye gestión de usuarios y negocios, sistema de reservas con confirmación automática, y reseñas y valoraciones de clientes.
