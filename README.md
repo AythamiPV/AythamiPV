@@ -27,11 +27,11 @@ Mis principales áreas de trabajo son:
 
 ### Tecnologías
 
-**Lenguajes:** Java, TypeScript, JavaScript, Python, C++
-**Frameworks y librerías:** Spring Boot, Node.js, Angular
-**Bases de datos:** MySQL, MongoDB
-**Control de versiones:** Git, GitHub
-**Herramientas:** Visual Studio Code
+- **Lenguajes:** Java, TypeScript, JavaScript, Python, C++
+- **Frameworks y librerías:** Spring Boot, Node.js, Angular
+-  **Bases de datos:** MySQL, MongoDB
+-  **Control de versiones:** Git, GitHub
+-  **Herramientas:** Visual Studio Code
 
 ---
 
