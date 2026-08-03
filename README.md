@@ -12,40 +12,48 @@
 
 ---
 
-### Sobre mí 👨‍💻
-Soy Ingeniero Informático por la Universidad de Las Palmas de Gran Canaria (ULPGC), **Full-Stack Developer** con especial enfoque en **backend**. Me encanta resolver problemas, diseñar APIs eficientes y optimizar sistemas. Utilizo GitHub para documentar y compartir los proyectos que voy desarrollando. Estoy particularmente interesado en:
+### Sobre mí
 
-- **Desarrollo backend**: Java, Spring Boot, Node.js, diseño de APIs REST.
-- **Optimización de sistemas**: modelos heurísticos, rendimiento y eficiencia.
-- **Desarrollo web**: TypeScript, JavaScript, y frameworks como Angular.
-- **Algoritmos y estructuras de datos**: con Python y C++.
+Ingeniero Informático por la Universidad de Las Palmas de Gran Canaria (ULPGC), especializado en desarrollo backend con conocimientos sólidos en frontend. He realizado mis prácticas y Trabajo de Fin de Grado en Kaizten, donde trabajé en el desarrollo de una API y en un proyecto de optimización de recursos aplicado a entornos marítimos.
 
----
+Mis principales áreas de trabajo son:
 
-### Tecnologías que utilizo ⚙️
-<ul>
-  <li><b>Lenguajes:</b> Java, TypeScript, JavaScript, Python, C++</li>
-  <li><b>Frameworks y Librerías:</b> Spring Boot, Node.js, Angular</li>
-  <li><b>Base de datos:</b> MySQL, MongoDB</li>
-  <li><b>Control de versiones:</b> Git y GitHub</li>
-  <li><b>Herramientas de desarrollo:</b> Visual Studio Code</li>
-</ul>
+- Desarrollo backend con Java y Spring Boot
+- Diseño y desarrollo de APIs REST
+- Desarrollo frontend con Angular y TypeScript
+- Optimización de sistemas y algoritmos
 
 ---
 
-### Proyectos destacados 🚀
-Aquí hay algunos de los proyectos más interesantes que he trabajado:
+### Tecnologías
 
-- **[Trabajo de Fin de Grado (Kaizten)](https://github.com/kaizten/tfg_aythami-perez-vega)**: Aplicación para la visualización de datos portuarios y la optimización de recursos en entornos marítimos mediante un modelo heurístico adaptativo.
-- **Prácticas en Kaizten**: Desarrollo de una API en Java con Spring Boot, aplicando buenas prácticas de diseño backend en un entorno profesional real.
-
----
-
-### Contacto 📬
-Si quieres ponerte en contacto conmigo, puedes encontrarme en:
-- **LinkedIn**: [Aythami Pérez Vega](https://www.linkedin.com/in/aythami-pérez-vega-74520b387)
-- **Correo Electrónico**: [aypeve@gmail.com](mailto:aypeve@gmail.com)
+**Lenguajes:** Java, TypeScript, JavaScript, Python, C++
+**Frameworks y librerías:** Spring Boot, Node.js, Angular
+**Bases de datos:** MySQL, MongoDB
+**Control de versiones:** Git, GitHub
+**Herramientas:** Visual Studio Code
 
 ---
 
-<h3 align="center">¡Gracias por visitar mi perfil!</h3>
+### Proyectos
+
+**[Trabajo de Fin de Grado – Kaizten](https://github.com/kaizten/tfg_aythami-perez-vega)**
+Aplicación para la visualización de datos portuarios y optimización de recursos en entornos marítimos mediante un modelo heurístico adaptativo.
+
+**Prácticas – Kaizten**
+Desarrollo de una API en Java con Spring Boot, aplicando buenas prácticas de diseño backend.
+
+**[Message](https://github.com/ZuliiHdez/Message)**
+Proyecto de clase en equipo, versión mejorada de Orion.
+
+**[Orion](https://github.com/ZuliiHdez/Orion)**
+Proyecto de clase en equipo.
+
+**[PS-AquaViva](https://github.com/IsmaelYanes/PS-AquaViva/tree/master)**
+Proyecto de clase en equipo.
+
+---
+
+### Contacto
+
+[LinkedIn](https://www.linkedin.com/in/aythami-pérez-vega-74520b387)
